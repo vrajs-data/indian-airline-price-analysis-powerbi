@@ -1,4 +1,4 @@
-# ✈️ AerolInsight: Indian Airline Price Analysis Dashboard
+# ✈️ AeroInsight: Indian Airline Price Analysis Dashboard
 
 This Power BI dashboard analyzes airline ticket pricing trends across major Indian airlines.  
 The goal of this project is to understand pricing patterns, flight distribution, and ticket trends across different airlines and cities.
